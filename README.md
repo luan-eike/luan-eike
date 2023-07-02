@@ -1,7 +1,7 @@
 Hi! I'm Luan Eike 👋<br>
 a brazilian developer 🌎
 
-📫 Contact me to luaneike.contato@gmail.com or <a href="https://www.linkedin.com/in/luan-eike-50964b216/" target="_blank">LinkedIn</a>. <br>
+📫 Contact me at luaneike.contato@gmail.com or <a href="https://www.linkedin.com/in/luan-eike-50964b216/" target="_blank">LinkedIn</a>. <br>
 🥇 Certified Developer by Microsoft and LinkedIn Learning. <br>
 📘 I often study Python, English and Artificial Intelligence (AI). <br>
 🧠 I will be the next Bill Gates. <br>
