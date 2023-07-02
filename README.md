@@ -1,6 +1,6 @@
 Olá! Eu sou o Luan Eike 👋
 
-📫 Contate-me via luaneike.contato@gmail.com ou [LinkedIn](https://www.linkedin.com/in/luan-eike-50964b216/). <br>
+📫 Contate-me via luaneike.contato@gmail.com ou <a href="https://www.linkedin.com/in/luan-eike-50964b216/" target="_blank">LinkedIn</a>. <br>
 🥇 Desenvolvedor certificado pela Microsoft e LinkedIn Learning. <br>
 📘 Estudo frequentemente Python, Inglês e Inteligência Artificial. <br>
 🧠 Procuro ser um profissional em Automação de RPA e fluxos de trabalho. <br>
